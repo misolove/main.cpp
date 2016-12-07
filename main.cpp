@@ -14,3 +14,5 @@
    // here, strResult will equal str2 above.
    return 0;
  }
+
+ //kkk
